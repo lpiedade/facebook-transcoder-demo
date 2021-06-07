@@ -41,3 +41,8 @@ config.rst
 
 package-lock.json
 geckodriver.log
+apex/
+fastBPE/
+TransCoder/
+*.pth
+*.log
